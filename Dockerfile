@@ -37,13 +37,3 @@ FROM springcloud/spring-cloud-skipper-server:2.8.3-jdk17
 
 # Tags: 2.8.3-jdk8
 FROM springcloud/spring-cloud-skipper-server:2.8.3-jdk8
-
-# Tags: 2.9.0-M1, 2.9.0-M1-jdk11
-FROM springcloud/spring-cloud-skipper-server:2.9.0-M1
-FROM springcloud/spring-cloud-skipper-server:2.9.0-M1-jdk11
-
-# Tags: 2.9.0-M1-jdk17
-FROM springcloud/spring-cloud-skipper-server:2.9.0-M1-jdk17
-
-# Tags: 2.9.0-M1-jdk8
-FROM springcloud/spring-cloud-skipper-server:2.9.0-M1-jdk8
